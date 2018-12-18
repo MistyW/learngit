@@ -6,3 +6,4 @@ Use the "i" or "Insert" to change the mode to "插入".
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+This is the last line.
