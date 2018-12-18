@@ -10,4 +10,4 @@ This is the last line.
 Creating a new branch is quick.
 
 Creating a new branch is quick and simple.
-
+强制禁用Fast Forward模式。
